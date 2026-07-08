@@ -33,7 +33,11 @@
     },
     "total_participants": 42275,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "What is your sex?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "2",
@@ -67,7 +71,11 @@
     "survey_coverage_note": "per-survey breakdown not available; total shown",
     "source_form_label": "VIGDB Short Annex",
     "value_type": "Continuous",
-    "continuous_n_responses": 120291
+    "continuous_n_responses": 120291,
+    "question_text_en": "What is your year of birth?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "3",
@@ -101,7 +109,11 @@
     },
     "total_participants": 41338,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How old are you (in full years)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "4",
@@ -154,7 +166,11 @@
     },
     "total_participants": 35667,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Where were you born? Where were your relatives born?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "5",
@@ -207,7 +223,11 @@
     },
     "total_participants": 41983,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB_OM Extended Form"
+    "source_form_label": "VIGDB_OM Extended Form",
+    "question_text_en": "What is your and your relatives' ethnicity/nationality?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "6",
@@ -248,7 +268,11 @@
     },
     "total_participants": 36927,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "What is your marital status?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "7",
@@ -285,7 +309,11 @@
     },
     "total_participants": 30671,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Main Questionnaire"
+    "source_form_label": "VIGDB Main Questionnaire",
+    "question_text_en": "What are your living conditions?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "8",
@@ -322,7 +350,11 @@
     },
     "total_participants": 34487,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have biological brothers or sisters?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "9",
@@ -355,7 +387,11 @@
       "VIGDB": 26128
     },
     "total_participants": 26128,
-    "source_form_label": "VIGDB Main Questionnaire"
+    "source_form_label": "VIGDB Main Questionnaire",
+    "question_text_en": "Do you have a twin brother or twin sister?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "10",
@@ -392,7 +428,11 @@
     },
     "total_participants": 41067,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "Do you have children of your own?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "11",
@@ -435,7 +475,11 @@
     },
     "total_participants": 39012,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "What is your level of education?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "12",
@@ -466,7 +510,11 @@
       "VIGDB": 35544
     },
     "total_participants": 35544,
-    "source_form_label": "VIGDB Main Questionnaire"
+    "source_form_label": "VIGDB Main Questionnaire",
+    "question_text_en": "Are you a Chernobyl nuclear disaster liquidator?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "13",
@@ -501,7 +549,11 @@
     },
     "total_participants": 33687,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you often been exposed to harmful environmental or occupational factors during your life?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "14",
@@ -538,7 +590,11 @@
     },
     "total_participants": 26777,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have any allergies? (excluding medication intolerances)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "15",
@@ -586,7 +642,11 @@
     },
     "total_participants": 36032,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have any medication intolerances?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "16",
@@ -639,7 +699,11 @@
     },
     "total_participants": 33568,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "Do you regularly take any medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "17",
@@ -679,7 +743,11 @@
     },
     "total_participants": 33537,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "Do you currently smoke?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "18",
@@ -717,7 +785,11 @@
     },
     "total_participants": 32193,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "Have you ever smoked in your life and have now quit?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "19",
@@ -757,7 +829,11 @@
     },
     "total_participants": 32826,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you often spend time in rooms where people smoke? If yes, how many hours per day?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "20",
@@ -801,7 +877,11 @@
     },
     "total_participants": 33518,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you consume alcohol? How much do you typically consume per occasion?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "21",
@@ -831,7 +911,11 @@
       "": 871
     },
     "total_participants": 871,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you previously consumed alcohol excessively?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "22",
@@ -869,7 +953,11 @@
     },
     "total_participants": 33480,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What was your lifestyle like in the past?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "23",
@@ -907,7 +995,11 @@
     },
     "total_participants": 33513,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What is your current lifestyle like?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "24",
@@ -949,7 +1041,11 @@
     },
     "total_participants": 34952,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "VIGDB_OM Extended Form"
+    "source_form_label": "VIGDB_OM Extended Form",
+    "question_text_en": "How long have your relatives lived (family longevity)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "25",
@@ -1002,7 +1098,11 @@
     },
     "total_participants": 41939,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you or any of your relatives had malignant (cancer) diseases? (If yes, at what age?)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "26",
@@ -1048,7 +1148,11 @@
     },
     "total_participants": 42228,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you or any of your relatives had cardiovascular diseases? (If yes, at what age?)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "27",
@@ -1093,7 +1197,11 @@
     },
     "total_participants": 42173,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you or any of your relatives had metabolic or endocrine diseases? (If yes, at what age?)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "28",
@@ -1144,7 +1252,11 @@
     },
     "total_participants": 31284,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you or any of your relatives had any other chronic conditions? (If yes, at what age?)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "29",
@@ -1189,7 +1301,11 @@
     },
     "total_participants": 25305,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In the past year, have you visited any of the listed specialist doctors?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "30",
@@ -1218,7 +1334,11 @@
       "": 880
     },
     "total_participants": 880,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been hospitalised due to sudden chest pain (by ambulance)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "31",
@@ -1247,7 +1367,11 @@
       "": 878
     },
     "total_participants": 878,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you experience (or have you had) pressing, burning or squeezing chest pain (not stabbing) in the centre or left side of the chest?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "32",
@@ -1276,7 +1400,11 @@
       "": 878
     },
     "total_participants": 878,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you ever have episodes of very rapid heartbeat?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "33",
@@ -1305,7 +1433,11 @@
       "": 879
     },
     "total_participants": 879,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever experienced heart palpitations?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "34",
@@ -1334,7 +1466,11 @@
       "": 878
     },
     "total_participants": 878,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had an irregular heartbeat?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "35",
@@ -1363,7 +1499,11 @@
       "": 881
     },
     "total_participants": 881,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had palpitations with dizziness?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "36",
@@ -1392,7 +1532,11 @@
       "": 880
     },
     "total_participants": 880,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had palpitations with loss of consciousness (fainting)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "37",
@@ -1421,7 +1565,11 @@
       "": 881
     },
     "total_participants": 881,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had episodes of unconsciousness (fainting with falling) without palpitations?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "38",
@@ -1450,7 +1598,11 @@
       "": 882
     },
     "total_participants": 882,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had a slow pulse or slow heart rate?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "39",
@@ -1479,7 +1631,11 @@
       "": 882
     },
     "total_participants": 882,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had a slow heart rate/pulse with fainting?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "40",
@@ -1508,7 +1664,11 @@
       "": 883
     },
     "total_participants": 883,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do your ankles or lower legs tend to swell?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "41",
@@ -1541,7 +1701,11 @@
       "VIGDB": 24802
     },
     "total_participants": 24802,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you currently have any health problems other than those you consulted a doctor for? Please mention any diagnosed conditions.",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "42",
@@ -1575,7 +1739,11 @@
     },
     "total_participants": 43353,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Participant's height",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "43",
@@ -1609,7 +1777,11 @@
     },
     "total_participants": 43316,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Participant's weight",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "44",
@@ -1642,7 +1814,11 @@
     },
     "total_participants": 37505,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Participant's waist circumference",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "45",
@@ -1676,7 +1852,11 @@
     },
     "total_participants": 23193,
     "survey_coverage_note": "per-survey breakdown not available; total shown",
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Participant's blood pressure before interview",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "46",
@@ -1707,7 +1887,11 @@
       "VIGDB": 32592
     },
     "total_participants": 32592,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Participant's blood pressure after interview",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "47",
@@ -1737,7 +1921,11 @@
       "VIGDB": 31818
     },
     "total_participants": 31818,
-    "source_form_label": "VIGDB Main Questionnaire"
+    "source_form_label": "VIGDB Main Questionnaire",
+    "question_text_en": "Participant's pulse rate",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "48",
@@ -1764,7 +1952,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many people live in your household, including yourself?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "49",
@@ -1800,7 +1992,11 @@
       "": 9870
     },
     "total_participants": 9870,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What is your current occupation? I work as:",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "50",
@@ -1841,7 +2037,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What was your total household income last month after taxes (including stipends, pensions, benefits, etc.)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "51",
@@ -1872,7 +2072,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many times in the past year (12 months) have you visited a doctor (excluding a dentist)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "52",
@@ -1900,7 +2104,11 @@
       "": 499
     },
     "total_participants": 499,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you receive a disability pension?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "53",
@@ -1929,7 +2137,11 @@
       "": 1205
     },
     "total_participants": 1205,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been diagnosed with a myocardial infarction (heart attack)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "54",
@@ -1958,7 +2170,11 @@
       "": 1240
     },
     "total_participants": 1240,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been diagnosed with a stroke?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "55",
@@ -1987,7 +2203,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had coronary bypass surgery?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "56",
@@ -2016,7 +2236,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had coronary angioplasty?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "57",
@@ -2059,7 +2283,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In the past year, has a doctor diagnosed or treated you for any of the following conditions?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "58",
@@ -2086,7 +2314,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many days in the past year were you unable to work due to illness?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "59",
@@ -2113,7 +2345,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many days in the past year have you spent in hospital?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "60",
@@ -2147,7 +2383,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Has your blood cholesterol level ever been measured? When was it last measured?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "61",
@@ -2179,7 +2419,11 @@
       "VIGDB_OM": 2033
     },
     "total_participants": 2033,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Was your cholesterol level elevated?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "62",
@@ -2210,7 +2454,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Were you given any dietary recommendations due to elevated cholesterol?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "63",
@@ -2243,7 +2491,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Are you currently taking cholesterol-lowering medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "64",
@@ -2277,7 +2529,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "VIGDB_OM Extended Form"
+    "source_form_label": "VIGDB_OM Extended Form",
+    "question_text_en": "Has your blood pressure ever been measured? When was it last measured?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "65",
@@ -2305,7 +2561,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many times in the past year has your blood pressure been measured? (Mark 0 if not measured at all)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "66",
@@ -2337,7 +2597,11 @@
       "VIGDB_OM": 2036
     },
     "total_participants": 2036,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been found to have high blood pressure?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "67",
@@ -2369,7 +2633,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever taken blood pressure-lowering medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "68",
@@ -2404,7 +2672,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take blood pressure-lowering medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "69",
@@ -2436,7 +2708,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Has your blood glucose level ever been measured? When was it last measured?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "70",
@@ -2464,7 +2740,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "71",
@@ -2493,7 +2773,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been diagnosed with diabetes or latent diabetes (glucose intolerance)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "72",
@@ -2524,7 +2808,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When diabetes was diagnosed, which of the following treatments were prescribed?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "73",
@@ -2555,7 +2843,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What diabetes treatment are you currently receiving?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "74",
@@ -2583,7 +2875,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been diagnosed with asthma?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "75",
@@ -2612,7 +2908,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Are you currently using any asthma medications (e.g. inhaler, powder, tablets)? Please name the medication and form.",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "76",
@@ -2644,7 +2944,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Has any of your relatives had asthma?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "77",
@@ -2672,7 +2976,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your level of physical movement in daily life?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "78",
@@ -2700,7 +3008,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "To what extent are you able to take care of yourself?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "79",
@@ -2729,7 +3041,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "To what extent can you carry out your usual daily activities (work, study, hobbies, housework)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "80",
@@ -2758,7 +3074,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How would you rate your current level of pain or discomfort?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "81",
@@ -2787,7 +3107,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How would you rate your current level of anxiety or depression?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "82",
@@ -2814,7 +3138,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How are you feeling today?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "83",
@@ -2862,7 +3190,11 @@
       "VIGDB_OM": 1987
     },
     "total_participants": 1987,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had any of the following symptoms or complaints in the past month (30 days)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "84",
@@ -2893,7 +3225,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Painkillers for headaches?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "85",
@@ -2925,7 +3261,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Painkillers for muscle or joint pain?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "86",
@@ -2957,7 +3297,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Painkillers for other types of pain?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "87",
@@ -2989,7 +3333,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Sleeping pills?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "88",
@@ -3021,7 +3369,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Tranquilisers?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "89",
@@ -3053,7 +3405,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Antidepressants?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "90",
@@ -3085,7 +3441,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Asthma medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "91",
@@ -3116,7 +3476,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Hay fever / anti-allergy medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "92",
@@ -3148,7 +3512,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Aspirin for heart attack prevention (e.g. Trombo ASS)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "93",
@@ -3179,7 +3547,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Blood-thinning medications (e.g. Warfarin)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "94",
@@ -3211,7 +3583,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last take: Antibiotics?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "95",
@@ -3241,7 +3617,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you experienced significant tension or stress in the past month (30 days)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "96",
@@ -3272,7 +3652,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What was your level of physical activity at work in the past?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "97",
@@ -3303,7 +3687,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What is your current level of physical activity at work?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "98",
@@ -3335,7 +3723,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many minutes per day do you walk or cycle to and from work?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "99",
@@ -3369,7 +3761,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often do you exercise for at least 20–30 minutes to the point of mild breathlessness or sweating in your free time?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "100",
@@ -3400,7 +3796,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your physical fitness?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "101",
@@ -3428,7 +3828,11 @@
       "": 16
     },
     "total_participants": 16,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "102",
@@ -3457,7 +3861,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever smoked at least 100 cigarettes, cigars or pipes in your lifetime?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "103",
@@ -3487,7 +3895,11 @@
       "": 1252
     },
     "total_participants": 1252,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever smoked regularly (almost every day for at least one year)? How many years in total?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "104",
@@ -3520,7 +3932,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many days a week do you usually smoke?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "105",
@@ -3554,7 +3970,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "When did you last smoke? (If you currently smoke, please select the first answer.)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "106",
@@ -3585,7 +4005,11 @@
       "": 372
     },
     "total_participants": 372,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many cigarettes do you currently smoke (or smoked before quitting) per day on average?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "107",
@@ -3616,7 +4040,11 @@
       "": 684
     },
     "total_participants": 684,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What do you think about your smoking habit? Do you think it is:",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "108",
@@ -3647,7 +4075,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Would you like to quit smoking?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "109",
@@ -3678,7 +4110,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "If you tried to quit smoking, do you think you would succeed?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "110",
@@ -3708,7 +4144,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever seriously tried to quit smoking? If so, when did you last try?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "111",
@@ -3742,7 +4182,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Has anyone advised you to quit smoking in the past year?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "112",
@@ -3771,7 +4215,11 @@
       "": 881
     },
     "total_participants": 881,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you feel fatigue from movement or physical activities?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "113",
@@ -3804,7 +4252,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many times a day do you usually eat on working days? (including snacks)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "114",
@@ -3837,7 +4289,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Which is usually your main meal on working days?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "115",
@@ -3870,7 +4326,11 @@
       "VIGDB_OM": 1128
     },
     "total_participants": 1128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Where do you usually eat your main meal?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "116",
@@ -3909,7 +4369,11 @@
       "VIGDB_OM": 2042
     },
     "total_participants": 2042,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you follow any specific diet?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "117",
@@ -3941,7 +4405,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Wholemeal/rye bread?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "118",
@@ -3973,7 +4441,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Sweet-sour bread?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "119",
@@ -4005,7 +4477,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Grain/multigrain bread?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "120",
@@ -4037,7 +4513,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: White bread?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "121",
@@ -4069,7 +4549,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Biscuits or cakes?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "122",
@@ -4101,7 +4585,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Porridge?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "123",
@@ -4133,7 +4621,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Breakfast cereals?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "124",
@@ -4164,7 +4656,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Pasta?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "125",
@@ -4196,7 +4692,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Rice?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "126",
@@ -4228,7 +4728,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Buckwheat?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "127",
@@ -4260,7 +4764,11 @@
       "": 1045
     },
     "total_participants": 1045,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Yogurt, kefir or cultured milk products?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "128",
@@ -4292,7 +4800,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Cottage cheese or low-fat cheese (<20% fat)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "129",
@@ -4324,7 +4836,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Other types of cheese?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "130",
@@ -4356,7 +4872,11 @@
       "": 648
     },
     "total_participants": 648,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Ice cream or sweet dairy desserts?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "131",
@@ -4388,7 +4908,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Boiled potatoes?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "132",
@@ -4420,7 +4944,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Fried potatoes or chips?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "133",
@@ -4452,7 +4980,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Stewed vegetables?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "134",
@@ -4484,7 +5016,11 @@
       "": 1111
     },
     "total_participants": 1111,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Fresh vegetables or salads?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "135",
@@ -4516,7 +5052,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Fruit?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "136",
@@ -4548,7 +5088,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Fresh or frozen berries?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "137",
@@ -4580,7 +5124,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Fruit or berry juices?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "138",
@@ -4612,7 +5160,11 @@
       "": 880
     },
     "total_participants": 880,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Fish or fish dishes?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "139",
@@ -4644,7 +5196,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Chicken or turkey?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "140",
@@ -4676,7 +5232,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Various meat dishes (minced meat, cutlets, goulash)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "141",
@@ -4708,7 +5268,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Sausages or frankfurters?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "142",
@@ -4740,7 +5304,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Smoked meat or cold meat dishes?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "143",
@@ -4772,7 +5340,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Eggs?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "144",
@@ -4802,7 +5374,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Pizza?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "145",
@@ -4830,7 +5406,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Burgers?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "146",
@@ -4861,7 +5441,11 @@
       "": 661
     },
     "total_participants": 661,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Salty snacks (crisps, popcorn, salted nuts)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "147",
@@ -4893,7 +5477,11 @@
       "": 507
     },
     "total_participants": 507,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Chocolate?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "148",
@@ -4925,7 +5513,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Sweets or candy?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "149",
@@ -4957,7 +5549,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you drunk: Sugary fizzy drinks (lemonade, Coca-Cola, Sprite)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "150",
@@ -4987,7 +5583,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you drunk: Low-sugar fizzy drinks (Diet Cola, Pepsi Max)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "151",
@@ -5019,7 +5619,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you used: Fresh herbs and spices (parsley, dill, basil, etc.)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "152",
@@ -5051,7 +5655,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Unsalted nuts?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "153",
@@ -5083,7 +5691,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Soy products (soy milk, tofu)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "154",
@@ -5113,7 +5725,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten: Ready-made frozen products (dumplings, frozen pizzas)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "155",
@@ -5145,7 +5761,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten fish: Salmon?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "156",
@@ -5175,7 +5795,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten fish: Carp?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "157",
@@ -5205,7 +5829,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten fish: Cod?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "158",
@@ -5237,7 +5865,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten fish: Herring?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "159",
@@ -5269,7 +5901,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you eaten fish: Other fish?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "160",
@@ -5300,7 +5936,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What fats/spreads do you usually use for making sandwiches?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "161",
@@ -5332,7 +5972,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What fats do you usually use for cooking at home?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "162",
@@ -5361,7 +6005,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you add salt to food at the table?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "163",
@@ -5395,7 +6043,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What type of table salt do you usually use at home?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "164",
@@ -5424,7 +6076,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In your opinion, are shop-bought ready meals or semi-prepared foods compared to home-cooked food:",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "165",
@@ -5451,7 +6107,11 @@
       "": 1065
     },
     "total_participants": 1065,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many cups of tea do you drink per day?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "166",
@@ -5478,7 +6138,11 @@
       "": 941
     },
     "total_participants": 941,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many cups of coffee do you drink per day?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "167",
@@ -5510,7 +6174,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What type of coffee do you usually drink?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "168",
@@ -5541,7 +6209,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "If you drink milk, what type do you usually use?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "169",
@@ -5573,7 +6245,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "VIGDB Short Annex"
+    "source_form_label": "VIGDB Short Annex",
+    "question_text_en": "Which statement best describes your eating habits?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "170",
@@ -5608,7 +6284,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you taken vitamins, minerals or other dietary supplements in the past 6 months?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "171",
@@ -5637,7 +6317,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your own weight?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "172",
@@ -5669,7 +6353,11 @@
       "VIGDB_OM": 1153
     },
     "total_participants": 1153,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How has your weight changed in the past year (12 months)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "173",
@@ -5698,7 +6386,11 @@
       "VIGDB_OM": 1147
     },
     "total_participants": 1147,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What has been your lowest weight since the age of 20?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "174",
@@ -5727,7 +6419,11 @@
       "VIGDB_OM": 1143
     },
     "total_participants": 1143,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What has been your maximum weight gain? (excluding pregnancy or breastfeeding for women)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "175",
@@ -5759,7 +6455,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you seriously tried to lose weight? If yes, how many times?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "176",
@@ -5792,7 +6492,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What has been your best weight loss achievement?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "177",
@@ -5823,7 +6527,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many times in the past 10 years have you lost at least 5 kg?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "178",
@@ -5854,7 +6562,11 @@
       "VIGDB_OM": 1155
     },
     "total_participants": 1155,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In how many of those cases did you regain all the weight you had lost?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "179",
@@ -5886,7 +6598,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often do you experience persistent stress or tension at work?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "180",
@@ -5918,7 +6634,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often do you feel that work interferes with your family life?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "181",
@@ -5949,7 +6669,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your current financial situation?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "182",
@@ -5979,7 +6703,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your achievements in life?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "183",
@@ -6010,7 +6738,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your family life?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "184",
@@ -6040,7 +6772,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: Heart disease, diabetes or cancer can be prevented with a healthy lifestyle?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "185",
@@ -6070,7 +6806,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: There is no point adopting a healthy lifestyle once you are already ill?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "186",
@@ -6100,7 +6840,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: You can influence factors that increase or decrease your risk of illness?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "187",
@@ -6129,7 +6873,11 @@
       "": 37
     },
     "total_participants": 37,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: You have the ability to change your health-related habits?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "188",
@@ -6159,7 +6907,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: You are capable of improving your health habits?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "189",
@@ -6189,7 +6941,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: You can maintain healthy habits even if those around you are unsupportive?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "190",
@@ -6219,7 +6975,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: You are able to avoid adopting harmful health habits?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "191",
@@ -6249,7 +7009,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: Even when tired or stressed, you can recognise what is harmful to your health?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "192",
@@ -6279,7 +7043,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: Healthy habits are more important to you than other activities (e.g. going for a run rather than watching TV)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "193",
@@ -6309,7 +7077,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: You can refrain from smoking even when surrounded by smokers?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "194",
@@ -6339,7 +7111,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: You are able to attend regular preventive health check-ups?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "195",
@@ -6371,7 +7147,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your personal risk of developing cardiovascular disease?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "196",
@@ -6404,7 +7184,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your personal risk of developing cancer?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "197",
@@ -6436,7 +7220,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How do you rate your personal risk of developing diabetes?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "198",
@@ -6467,7 +7255,11 @@
       "": 340
     },
     "total_participants": 340,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: A healthy lifestyle can prevent heart disease?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "199",
@@ -6498,7 +7290,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you agree: It is too late to change eating habits in middle age?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "200",
@@ -6527,7 +7323,11 @@
       "": 879
     },
     "total_participants": 879,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you experience pain in your leg muscles (not joints) when walking?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "201",
@@ -6557,7 +7357,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you consumed any alcoholic beverages (beer, wine, spirits) in the past year?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "202",
@@ -6587,7 +7391,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many glasses or bottles of the listed alcoholic drinks did you consume in the previous week (7 days)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "203",
@@ -6618,7 +7426,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often do you usually drink spirits?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "204",
@@ -6650,7 +7462,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often do you drink wine?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "205",
@@ -6681,7 +7497,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often do you drink beer?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "206",
@@ -6712,7 +7532,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How often in the past year have you felt drunk after drinking alcohol?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "207",
@@ -6739,7 +7563,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Fasting blood glucose",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "208",
@@ -6766,7 +7594,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Blood glucose after 2 hours (after 75g glucose load)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "209",
@@ -6793,7 +7625,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Total cholesterol",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "210",
@@ -6820,7 +7656,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "LDL cholesterol (ZBLH)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "211",
@@ -6847,7 +7687,11 @@
       "": 367
     },
     "total_participants": 367,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Triglycerides (TG)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "212",
@@ -6876,7 +7720,11 @@
       "": 875
     },
     "total_participants": 875,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you tend to have a cough during exertion or physical effort?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "213",
@@ -6907,7 +7755,11 @@
       "": 11128
     },
     "total_participants": 11128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What was your hair colour at age 18?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "214",
@@ -6939,7 +7791,11 @@
       "": 11128
     },
     "total_participants": 11128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What is your eye colour?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "215",
@@ -6971,7 +7827,11 @@
       "": 11128
     },
     "total_participants": 11128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "What is your natural skin colour (in areas unexposed to sun, e.g. inner arm)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "216",
@@ -7002,7 +7862,11 @@
       "": 11128
     },
     "total_participants": 11128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Overall, how does your skin react to sun exposure?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "217",
@@ -7035,7 +7899,11 @@
       "": 11128
     },
     "total_participants": 11128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many freckles did you have on your face at the end of summer as a child?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "218",
@@ -7068,7 +7936,11 @@
       "": 11128
     },
     "total_participants": 11128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many freckles do you have on your face at the end of summer as an adult?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "219",
@@ -7099,7 +7971,11 @@
       "": 11128
     },
     "total_participants": 11128,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How many moles do you currently have?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "220",
@@ -7130,7 +8006,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have asthma?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "221",
@@ -7161,7 +8041,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have other respiratory problems, e.g. wheezing?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "222",
@@ -7191,7 +8075,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have a blocked nose or runny nose?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "223",
@@ -7222,7 +8110,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have hay fever (nasal/eye symptoms, sneezing, watery eyes)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "224",
@@ -7253,7 +8145,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have urticaria (hives)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "225",
@@ -7284,7 +8180,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have other skin rashes?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "226",
@@ -7313,7 +8213,11 @@
       "": 32
     },
     "total_participants": 32,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have facial swelling?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "227",
@@ -7344,7 +8248,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have a reaction to household chemicals?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "228",
@@ -7375,7 +8283,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have allergic reactions to insect bites?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "229",
@@ -7403,7 +8315,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have other allergic reactions?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "230",
@@ -7435,7 +8351,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Prostamol?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "231",
@@ -7463,7 +8383,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Peponen?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "232",
@@ -7491,7 +8415,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Prostagut?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "233",
@@ -7519,7 +8447,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Prostavit?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "234",
@@ -7547,7 +8479,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Doxazosin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "235",
@@ -7577,7 +8513,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Candur?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "236",
@@ -7605,7 +8545,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Xatral?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "237",
@@ -7635,7 +8579,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Zokson?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "238",
@@ -7665,7 +8613,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Tamsulosin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "239",
@@ -7696,7 +8648,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Fokusin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "240",
@@ -7727,7 +8683,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Omnik?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "241",
@@ -7758,7 +8718,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Flosin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "242",
@@ -7790,7 +8754,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Omsal?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "243",
@@ -7821,7 +8789,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Proscar?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "244",
@@ -7851,7 +8823,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Avodart?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "245",
@@ -7879,7 +8855,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Finasteride?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "246",
@@ -7907,7 +8887,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Dutasteride?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "247",
@@ -7941,7 +8925,11 @@
       "": 1012
     },
     "total_participants": 1012,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had peptic ulcer disease?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "248",
@@ -7972,7 +8960,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had anaemia?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "249",
@@ -8003,7 +8995,11 @@
       "": 1012
     },
     "total_participants": 1012,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had stomach surgery?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "250",
@@ -8033,7 +9029,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had other major surgical operations?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "251",
@@ -8061,7 +9061,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had peritonitis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "252",
@@ -8090,7 +9094,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had pneumonia?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "253",
@@ -8118,7 +9126,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had osteomyelitis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "254",
@@ -8146,7 +9158,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had hepatitis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "255",
@@ -8173,7 +9189,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had meningitis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "256",
@@ -8201,7 +9221,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In the past 3 months, have you had respiratory viral infections?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "257",
@@ -8229,7 +9253,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In the past 3 months, have you had urinary or genital tract infections?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "258",
@@ -8256,7 +9284,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In the past 3 months, have you had soft tissue infections?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "259",
@@ -8283,7 +9315,11 @@
       "": 31
     },
     "total_participants": 31,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "In the past 3 months, have you had neuroinfections?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "260",
@@ -8315,7 +9351,11 @@
       "": 1009
     },
     "total_participants": 1009,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had Helicobacter Pylori eradication treatment?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "261",
@@ -8345,7 +9385,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you been vaccinated in the past 3 months?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "262",
@@ -8376,7 +9420,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had a blood transfusion?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "263",
@@ -8405,7 +9453,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had immunoglobulin therapy?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "264",
@@ -8433,7 +9485,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had chemotherapy?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "265",
@@ -8462,7 +9518,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had radiotherapy?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "266",
@@ -8491,7 +9551,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had blood in your urine in the past year?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "267",
@@ -8519,7 +9583,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had circumcision?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "268",
@@ -8547,7 +9615,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had a vasectomy?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "269",
@@ -8575,7 +9647,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had an orchiectomy (testicle removal)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "270",
@@ -8605,7 +9681,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had prostate surgery?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "271",
@@ -8636,7 +9716,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had a prostate biopsy?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "272",
@@ -8667,7 +9751,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had a digital rectal examination?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "273",
@@ -8701,7 +9789,11 @@
       "": 198
     },
     "total_participants": 198,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had any urological procedures in the past month?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "274",
@@ -8730,7 +9822,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Aspirin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "275",
@@ -8759,7 +9855,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take NSAIDs (non-steroidal anti-inflammatory drugs)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "276",
@@ -8788,7 +9888,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take H2 receptor blockers?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "277",
@@ -8818,7 +9922,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Antibiotics?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "278",
@@ -8847,7 +9955,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Thyroid hormones (L-Thyroxine)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "279",
@@ -8874,7 +9986,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Thyrostatic drugs (thiamazole, methimazole)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "280",
@@ -8901,7 +10017,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Iron (oral/IV)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "281",
@@ -8928,7 +10048,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Folic acid / Vitamin B12?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "282",
@@ -8955,7 +10079,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Insulin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "283",
@@ -8985,7 +10113,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Oral antidiabetic medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "284",
@@ -9012,7 +10144,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Beta-blockers?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "285",
@@ -9041,7 +10177,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Calcium / Vitamin D3?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "286",
@@ -9076,7 +10216,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Other medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "287",
@@ -9107,7 +10251,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly drink Green tea?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "288",
@@ -9138,7 +10286,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly drink Coffee?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "289",
@@ -9169,7 +10321,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly follow a Salted diet?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "290",
@@ -9200,7 +10356,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly consume Dried food products?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "291",
@@ -9229,7 +10389,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly use a Refrigerator (for food storage)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "292",
@@ -9256,7 +10420,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Are you a vegetarian?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "293",
@@ -9285,7 +10453,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Blood sample collection",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "294",
@@ -9315,7 +10487,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Blood sample processing",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "295",
@@ -9344,7 +10520,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Blood sample freezing",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "296",
@@ -9373,7 +10553,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Urogenital specialist visit (urologist, nephrologist)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "297",
@@ -9402,7 +10586,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take Vitamins A, C, E?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "298",
@@ -9436,7 +10624,11 @@
       "": 981
     },
     "total_participants": 981,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you regularly take PPIs (proton pump inhibitors)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "299",
@@ -9471,7 +10663,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had serious infections?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "300",
@@ -9505,7 +10701,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had acute infections in the past 3 months?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "301",
@@ -9533,7 +10733,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been diagnosed with immunodeficiency?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "302",
@@ -9568,7 +10772,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Leading/primary symptoms?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "303",
@@ -9595,7 +10803,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Time from symptom onset to diagnosis",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "304",
@@ -9622,7 +10834,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Time from diagnosis to surgery",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "305",
@@ -9649,7 +10865,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Date of surgery",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "306",
@@ -9679,7 +10899,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Upper endoscopy",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "307",
@@ -9707,7 +10931,11 @@
       "": 167
     },
     "total_participants": 167,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Date of questionnaire completion",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "308",
@@ -9735,7 +10963,11 @@
       "": 6407
     },
     "total_participants": 6407,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Date of death",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "309",
@@ -9763,7 +10995,11 @@
       "": 8678
     },
     "total_participants": 8678,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have antibiotic intolerance: Metronidazole?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "310",
@@ -9791,7 +11027,11 @@
       "": 8670
     },
     "total_participants": 8670,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have antibiotic intolerance: Clarithromycin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "311",
@@ -9819,7 +11059,11 @@
       "": 8663
     },
     "total_participants": 8663,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have antibiotic intolerance: Amoxicillin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "312",
@@ -9847,7 +11091,11 @@
       "": 8670
     },
     "total_participants": 8670,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have antibiotic intolerance: Penicillin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "313",
@@ -9875,7 +11123,11 @@
       "": 8668
     },
     "total_participants": 8668,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have antibiotic intolerance: Tetracycline?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "314",
@@ -9903,7 +11155,11 @@
       "": 8669
     },
     "total_participants": 8669,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have antibiotic intolerance: Levofloxacin?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "315",
@@ -9938,7 +11194,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you taken any medications in the past 30 days?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "316",
@@ -9968,7 +11228,11 @@
       "": 8590
     },
     "total_participants": 8590,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you taken blood pressure-lowering medications in the past 30 days?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "317",
@@ -9996,7 +11260,11 @@
       "": 8688
     },
     "total_participants": 8688,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you taken Aspirin in the past 30 days?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "318",
@@ -10024,7 +11292,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "319",
@@ -10052,7 +11324,11 @@
       "": 8687
     },
     "total_participants": 8687,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you taken painkillers or anti-inflammatory drugs in the past 30 days?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "320",
@@ -10080,7 +11356,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you taken proton pump inhibitors in the past 30 days?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "321",
@@ -10108,7 +11388,11 @@
       "": 8673
     },
     "total_participants": 8673,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had blood or haematopoietic diseases in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "322",
@@ -10136,7 +11420,11 @@
       "": 8663
     },
     "total_participants": 8663,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had respiratory or allergic diseases?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "323",
@@ -10164,7 +11452,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had asthma?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "324",
@@ -10192,7 +11484,11 @@
       "": 8686
     },
     "total_participants": 8686,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had obstructive pulmonary disease or chronic bronchitis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "325",
@@ -10220,7 +11516,11 @@
       "": 8686
     },
     "total_participants": 8686,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been diagnosed with urticaria (hives)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "326",
@@ -10250,7 +11550,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever been diagnosed with (or currently have) an allergy?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "328",
@@ -10278,7 +11582,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had hepatitis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "331",
@@ -10306,7 +11614,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had HIV?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "332",
@@ -10334,7 +11646,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever had tuberculosis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "334",
@@ -10362,7 +11678,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had skin diseases in the past 3 years: Psoriasis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "335",
@@ -10390,7 +11710,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had skin diseases in the past 3 years: Vitiligo?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "336",
@@ -10418,7 +11742,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had skin diseases in the past 3 years: Alopecia?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "337",
@@ -10446,7 +11774,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had bone, joint or connective tissue diseases in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "338",
@@ -10474,7 +11806,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had bone/joint/connective tissue diseases in the past 3 years: Rheumatoid arthritis?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "339",
@@ -10502,7 +11838,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had: Ankylosing spondylitis in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "340",
@@ -10530,7 +11870,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had: Systemic lupus erythematosus in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "341",
@@ -10558,7 +11902,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had: Dermatomyositis in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "342",
@@ -10586,7 +11934,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had: Scleroderma in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "343",
@@ -10614,7 +11966,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had: Vasculitis in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "344",
@@ -10642,7 +11998,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had neurological diseases in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "345",
@@ -10670,7 +12030,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had: Myasthenia gravis in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "346",
@@ -10698,7 +12062,11 @@
       "": 8689
     },
     "total_participants": 8689,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had: Multiple sclerosis in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "347",
@@ -10726,7 +12094,11 @@
       "": 5904
     },
     "total_participants": 5904,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you had glomerulonephritis in the past 3 years?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "348",
@@ -10754,7 +12126,11 @@
       "": 8673
     },
     "total_participants": 8673,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you smoked at least 100 cigarettes in your lifetime?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "349",
@@ -10782,7 +12158,11 @@
       "": 3704
     },
     "total_participants": 3704,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever smoked every day for a year? (If yes, specify years)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "350",
@@ -10809,7 +12189,11 @@
       "": 2836
     },
     "total_participants": 2836,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever smoked every day for a year? (If yes, specify cigarettes per day)",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "351",
@@ -10837,7 +12221,11 @@
       "": 8665
     },
     "total_participants": 8665,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever consumed alcohol?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "352",
@@ -10865,7 +12253,11 @@
       "": 8671
     },
     "total_participants": 8671,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever consumed alcohol at least once a week for more than six consecutive months?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "353",
@@ -10893,7 +12285,11 @@
       "": 8686
     },
     "total_participants": 8686,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Have you ever consumed more than 200g of spirits in a single drinking occasion?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "354",
@@ -10920,7 +12316,11 @@
       "": 6878
     },
     "total_participants": 6878,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Weekly alcohol (>6 months): weekly dose in grams?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "355",
@@ -10947,7 +12347,11 @@
       "": 6878
     },
     "total_participants": 6878,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Weekly alcohol (>6 months): monthly dose in grams?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "367",
@@ -10979,7 +12383,11 @@
       "MICROBIOM": 932
     },
     "total_participants": 932,
-    "source_form_label": "MICROBIOM Questionnaire"
+    "source_form_label": "MICROBIOM Questionnaire",
+    "question_text_en": "Have you taken antibiotics in the past 2 months?",
+    "has_visit_2": true,
+    "visit_note": "This field has records from both Visit 1 (baseline) and Visit 2 (follow-up). All participants have at least Visit 1.",
+    "max_visit": 2
   },
   {
     "question_id_db": "368",
@@ -11013,7 +12421,11 @@
       "MICROBIOM": 943
     },
     "total_participants": 943,
-    "source_form_label": "MICROBIOM Questionnaire"
+    "source_form_label": "MICROBIOM Questionnaire",
+    "question_text_en": "Which of these medications have you taken in the past 2 months?",
+    "has_visit_2": true,
+    "visit_note": "This field has records from both Visit 1 (baseline) and Visit 2 (follow-up). All participants have at least Visit 1.",
+    "max_visit": 2
   },
   {
     "question_id_db": "369",
@@ -11043,7 +12455,11 @@
       "MICROBIOM": 922
     },
     "total_participants": 922,
-    "source_form_label": "MICROBIOM Questionnaire"
+    "source_form_label": "MICROBIOM Questionnaire",
+    "question_text_en": "Have you had diarrhoea (liquid stools 3+ times a day) in the past week?",
+    "has_visit_2": true,
+    "visit_note": "This field has records from both Visit 1 (baseline) and Visit 2 (follow-up). All participants have at least Visit 1.",
+    "max_visit": 2
   },
   {
     "question_id_db": "370",
@@ -11074,7 +12490,11 @@
       "MICROBIOM": 933
     },
     "total_participants": 933,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "How were you born (delivery method)?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "371",
@@ -11106,7 +12526,11 @@
       "MICROBIOM": 920
     },
     "total_participants": 920,
-    "source_form_label": "MICROBIOM Questionnaire"
+    "source_form_label": "MICROBIOM Questionnaire",
+    "question_text_en": "Were you breastfed?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "372",
@@ -11144,7 +12568,11 @@
       "MICROBIOM": 898
     },
     "total_participants": 898,
-    "source_form_label": "MICROBIOM Questionnaire"
+    "source_form_label": "MICROBIOM Questionnaire",
+    "question_text_en": "Have you been diagnosed with any autoimmune diseases?",
+    "has_visit_2": true,
+    "visit_note": "This field has records from both Visit 1 (baseline) and Visit 2 (follow-up). All participants have at least Visit 1.",
+    "max_visit": 2
   },
   {
     "question_id_db": "373",
@@ -11183,7 +12611,11 @@
       "MICROBIOM": 923
     },
     "total_participants": 923,
-    "source_form_label": "MICROBIOM Questionnaire"
+    "source_form_label": "MICROBIOM Questionnaire",
+    "question_text_en": "Have you been diagnosed with any gastrointestinal diseases?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "374",
@@ -11211,7 +12643,11 @@
       "": 8687
     },
     "total_participants": 8687,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have medication intolerance: Omeprazole / Esomeprazole?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "375",
@@ -11239,7 +12675,11 @@
       "": 8684
     },
     "total_participants": 8684,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have medication intolerance: De-Nol / Bismuth?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "377",
@@ -11267,7 +12707,11 @@
       "": 50
     },
     "total_participants": 50,
-    "source_form_label": "General Export (mixed forms)"
+    "source_form_label": "General Export (mixed forms)",
+    "question_text_en": "Do you have any antibiotic intolerance?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "411",
@@ -11299,7 +12743,11 @@
       "VIGDB": 1
     },
     "total_participants": 1,
-    "source_form_label": "VIGDB Short (MGP)"
+    "source_form_label": "VIGDB Short (MGP)",
+    "question_text_en": "Are you currently taking any medications?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "419",
@@ -11334,7 +12782,11 @@
       "MICROBIOM": 550
     },
     "total_participants": 550,
-    "source_form_label": "MICROBIOM Long Form"
+    "source_form_label": "MICROBIOM Long Form",
+    "question_text_en": "What is your usual daily diet?",
+    "has_visit_2": true,
+    "visit_note": "This field has records from both Visit 1 (baseline) and Visit 2 (follow-up). All participants have at least Visit 1.",
+    "max_visit": 2
   },
   {
     "question_id_db": "420",
@@ -11364,7 +12816,11 @@
       "MICROBIOM": 551
     },
     "total_participants": 551,
-    "source_form_label": "MICROBIOM Long Form"
+    "source_form_label": "MICROBIOM Long Form",
+    "question_text_en": "Do you use calorie-free sweeteners instead of sugar in your daily diet?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "421",
@@ -11396,7 +12852,11 @@
       "MICROBIOM": 556
     },
     "total_participants": 556,
-    "source_form_label": "MICROBIOM Long Form"
+    "source_form_label": "MICROBIOM Long Form",
+    "question_text_en": "How many times a day do you usually eat on average?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "422",
@@ -11429,7 +12889,11 @@
       "MICROBIOM": 557
     },
     "total_participants": 557,
-    "source_form_label": "MICROBIOM Long Form"
+    "source_form_label": "MICROBIOM Long Form",
+    "question_text_en": "How many times a week do you usually eat meat products?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "423",
@@ -11462,7 +12926,11 @@
       "MICROBIOM": 560
     },
     "total_participants": 560,
-    "source_form_label": "MICROBIOM Long Form"
+    "source_form_label": "MICROBIOM Long Form",
+    "question_text_en": "How many times a week do you usually eat milk and dairy products?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "424",
@@ -11494,7 +12962,11 @@
       "MICROBIOM": 560
     },
     "total_participants": 560,
-    "source_form_label": "MICROBIOM Long Form"
+    "source_form_label": "MICROBIOM Long Form",
+    "question_text_en": "How many times a week do you usually eat vegetables and fruit?",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   },
   {
     "question_id_db": "425",
@@ -11527,6 +12999,10 @@
       "MICROBIOM": 561
     },
     "total_participants": 561,
-    "source_form_label": "MICROBIOM Long Form"
+    "source_form_label": "MICROBIOM Long Form",
+    "question_text_en": "",
+    "has_visit_2": false,
+    "visit_note": "",
+    "max_visit": 1
   }
 ]
